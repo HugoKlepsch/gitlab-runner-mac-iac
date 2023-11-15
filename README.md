@@ -36,7 +36,7 @@ sudo chmod +x /usr/local/bin/gitlab-runner
 
 ## Register runner
 
-Registering will create `config.toml`.
+Registering will create `config.toml`. This seems to be created in `~/.gitlab-runner/config.toml`. 
 
 [Register](https://docs.gitlab.com/runner/register/index.html?tab=macOS#register-with-a-runner-authentication-token)
 
